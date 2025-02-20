@@ -1,0 +1,2 @@
+Se creo un proyecto en SPRING que muestra en la localidad http://localhost:8080/hello un html redireccionado el controlador controllers/HomeController.java hacia el html hola.html (mostrando el mensaje "Hola Spring").
+También hay un controlador HolaController que utilizando RestController simplemente imprime directamente en pantalla el mensaje: "¡Hola Mundo desde Spring Boot!", esta parte no redirecciona a un html. 
